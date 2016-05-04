@@ -2,11 +2,13 @@
 
 The library allows you send transaction emails in falconide using ruby.
 
-Packages to be installed.
+##Packages to be installed.
 
 gem install falconide-0.0.1.gem
 
-# Usage
+The package is present in the library
+
+## Usage
 ```
 require 'falconide'
 class Test
